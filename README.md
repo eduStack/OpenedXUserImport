@@ -1,4 +1,4 @@
-OpenEdxUserImport
+OpenedXUserImport
 =================
 
-OpenEdxUserImport
+OpenedXUserImport
