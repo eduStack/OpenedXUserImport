@@ -10,3 +10,4 @@ for line in file:
     if len(user_cmd_op[1])>515:
         print "Something wrong when add user:\n"+ line + "\nMessage:\n" +user_cmd_op[1]+ "\n"
         break
+    time.sleep(2)
