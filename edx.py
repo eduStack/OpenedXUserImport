@@ -1,4 +1,5 @@
 import commands
+import time
 
 file = open("user.txt")
 
